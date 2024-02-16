@@ -3,6 +3,7 @@ A tiny python implementation of the Apriori algorithm to find frequent itemsets.
 
 ## Usage
 After installing the package, startby importing the TinyApriori class;
+
 Next, create a list of python sets containing the current itemsets combinations
 and choose the minimum_support and minimum_confidence values (Note: they should be between 0 and 1)
 ```python
